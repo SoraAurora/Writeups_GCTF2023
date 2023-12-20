@@ -1,5 +1,6 @@
 Audo Collapse
 CDDC Writeup had same ctf question using same code changing the file name it works perfectly find , we are extracting the LSB of each byte
+```
 import wave
 song = wave.open("problem.wav", mode='rb')
 # Convert audio to byte array
@@ -33,5 +34,5 @@ print("Sucessfully decoded: "+decoded)
 song.close()
 #CDDC2023{tH15_15_AuD10_5t39aNo9rAphy}
 ![image](https://github.com/SoraAurora/Writeups_GCTF2023/assets/91508322/dedc55ac-6158-4f11-b1d0-219eafd4373f)
-
+```
 GCTF23{4udi0_c0ll4ps3}
