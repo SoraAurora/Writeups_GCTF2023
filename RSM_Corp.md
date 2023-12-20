@@ -20,3 +20,5 @@ Nmap done: 1 IP address (1 host up) scanned in 9.86 seconds
 3. msfconsole windows/smb/ms17_010_psexec works
 4. go to C:\Documents and Settings\Administrator\flag,txt
 5. cat it n get GCTF23{L3g@cy_Syst3ms_@re_H@rd_t0_P@tch}
+6. ![image](https://github.com/SoraAurora/Writeups_GCTF2023/assets/91508322/36dcadcb-c79c-4272-b57a-998a96271248)
+
