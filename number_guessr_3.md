@@ -1,3 +1,4 @@
+```
 import asyncio
 import json
 import websockets
@@ -55,7 +56,7 @@ json_data = {
 }
 websocket_url = "ws://chal1.gryphons.sg:8005"
 asyncio.run(send_json_to_websocket(json_data,websocket_url))
-
+```
 Predicted 576037
 Sent JSON data to ws://chal1.gryphons.sg:8005: {"type": "guess", "number": 576037}
 Received response from ws://chal1.gryphons.sg:8005: {"flag": "GCTF23{p$eUDoR4ndOM_iS_N07_trUe_Random}", "type": "flag"}
