@@ -1,5 +1,7 @@
 password server timing attack
 chat gpt code
+
+```
 import socket
 import string
 import time
@@ -113,6 +115,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+```
 ![image](https://github.com/SoraAurora/Writeups_GCTF2023/assets/91508322/dce51673-64bc-4213-822c-8ce9913632e2)
 
 Flag: GCTF23{t!min9_4TT4cks_aR3_sO_Co0L}
