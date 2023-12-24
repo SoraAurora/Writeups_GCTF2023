@@ -1,3 +1,8 @@
+Source code given shows pseudo random using getrandbits(32)
+
+using randcrack we can parse in 624 and predict the most likely state of Mersenne Twister matrix aka predicting the number guess
+
+Solve script below
 ```
 import asyncio
 import json
